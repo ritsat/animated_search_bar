@@ -9,7 +9,7 @@ This project covers how to add animated search bar in flutter application. It al
 
 ## Packages Used
 
-	[anim_search_bar](https://pub.dev/packages/anim_search_bar)
+[anim_search_bar](https://pub.dev/packages/anim_search_bar)
 	
 
 Watch below [Youtube](https://www.youtube.com/watch?v=5h6NI4SuBvY) video for the code walkthrough,
