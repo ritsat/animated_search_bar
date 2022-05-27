@@ -7,7 +7,7 @@ A Flutter example for Animated Search Bar.
 This project covers how to add animated search bar in flutter application. It also covers how to customize it using various properties.
 
 
-##Packages Used
+## Packages Used
 
 	[anim_search_bar](https://pub.dev/packages/anim_search_bar)
 	
